@@ -5,6 +5,7 @@
 		Console.WriteLine("Hellowowoelrl");
 		Console.WriteLine("bnweh");
 		Console.WriteLine();
+		double a = Avg(new int[] { 1, 2,3,25,69})
 	}
 	public static double Avg(int[] numbers)
 	{
